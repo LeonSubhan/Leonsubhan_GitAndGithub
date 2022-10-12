@@ -1,0 +1,6 @@
+GitLab and GitHub are both web-based repositories that help with code management and sharing local file changes with a remote repository. 
+As the files on the internet keep changing from time to time, all the data is stored in a repository to be accessed later. Git development 
+to track the changes in a source code requires both GitHub and GitLab. 
+
+A software development life cycle (SDLC) consists of making amends to the existing source code, and sometimes, even creating new source code. Most developers were simultaneously on different parts of code, and so, sometimes, the modifications in the code might conflict 
+with each other. This is likely to introduce unwanted bugs in the software. While these might not affect software development in the beginning, they could lead to severe errors in the future, making it difficult to zero down the error zone.

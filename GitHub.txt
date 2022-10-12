@@ -5,3 +5,12 @@ project. Headquartered in California, it has been a subsidiary of Microsoft sinc
 It is commonly used to host open source software development projects. As of June 2022, GitHub reported having over 83 million developers
 and more than 200 million repositories, including at least 28 million public repositories. It is the largest source code host as of November
 2021.
+
+GitHub Developer Environment
+GitHub Command Line Interface
+GitHub Student Developer Pack
+Special Repository
+File Finder
+GitHub Pages
+GitHub Copilot
+
